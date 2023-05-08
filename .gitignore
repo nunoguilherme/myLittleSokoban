@@ -1,0 +1,16 @@
+# Ignore compiled class files
+*.class
+
+# Ignore generated files
+bin/
+target/
+*.log
+
+# Ignore IDE-specific files
+*.classpath
+*.project
+*.settings/
+.metadata/
+*.iml
+.idea/
+*.DS_Store
